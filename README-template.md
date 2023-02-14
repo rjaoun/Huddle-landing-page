@@ -20,6 +20,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Overview
 
+Huddle page landing was a great challenge for me to learn more about CSS Flexbox and CSS grid using bootstrap.
+
 ### The challenge
 
 Users should be able to:
@@ -29,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Design for Huddle Landing page](./design/Huddle-Landing-Page-Desktop-ScreenShot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
