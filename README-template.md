@@ -31,9 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
+Here is a screenshot of my Desktop View
 ![Desktop Design for Huddle Landing page](./design/Huddle-Landing-Page-Desktop-ScreenShot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+And here is another screenshot for my mobile view
+![Mobile Design for Huddle Landing page](./design/Huddle-Landing-Page-Mobile-ScreenShot.png)
+
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
