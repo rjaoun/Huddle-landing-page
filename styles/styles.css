@@ -1,0 +1,93 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #674bb1;
+    background-image: url('/images/bg-desktop.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90%;
+    margin: 0 auto;
+
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.navbar-brand{
+    width: 10rem;
+}
+.btn{
+    border-radius: 25px;
+    width: 10rem;
+    height: 3rem;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.btn:hover{
+    color:white;
+   background-color: #e980e7;
+}
+.social-icon{
+    
+    color: white;
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+}
+.social-icon:hover{
+    border: 1px solid #e980e7;
+    color: #e980e7;
+    
+}
+
+.fa-brands{
+    padding-top: 1rem;
+}
+@media only screen and (max-width: 500px){
+    .illustration-mockups{
+        text-align: center;
+    }
+
+   .mockup{
+    width: 90%;
+   } 
+   .info-title{
+    text-align: center;
+    margin: 1rem 1rem!important;
+    padding: 1rem 1rem!important;
+   }
+   h1{
+    font-size: 1.5rem!important;
+    margin-bottom: 1rem;
+   }
+   p{
+    line-height: 1.5;
+    font-size: 1rem!important;
+    margin-bottom: 1rem;
+   }
+   .btn{
+    width: 15rem;
+    height: 2.8rem;
+    color: #5c46aa;
+   }
+   .wrapper{
+    justify-content: center;
+    padding-right: 0!important;
+    margin-right: 0!important;
+   }
+   /* .footer-content{
+    margin-right: 0!important;
+    padding-right: 0!important;
+   } */
+   /* .social-icon{
+    width: 2rem;
+    height: 2rem;
+    bottom: 20px;
+   } */
+   a{
+
+    padding: 0!important;
+   }
+}
